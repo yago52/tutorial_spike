@@ -1,22 +1,45 @@
 # tutorial_spike
 
 This repository contains part of the Supplemmentary Material from the manuscript:
-Exploring the intrinsic structural plasticity and conformational dynamics of beta coronavirus spike glycoproteins
-Yago F. Silva1,20009-0005-2781-1203
-![image](https://github.com/user-attachments/assets/4741ace7-790e-451c-ad5c-3d749cd81952)
-, Harold H. Fokoue1,§ and Paulo R. Batista1,2,*
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Supporting Information</title>
+</head>
+<body>
+  <h2>Supporting Information</h2>
 
+  <h3>Exploring the intrinsic structural plasticity and conformational dynamics of beta coronavirus spike glycoproteins</h3>
+  
+  <p>
+    <strong>
+      <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">Yago F. Silva</a><sup>1,2</sup>, 
+      <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">Harold H. Fokoue</a><sup>1,§</sup>, 
+      and 
+      <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">Paulo R. Batista</a><sup>1,2,*</sup>
+    </strong>
+  </p>
 
-1 Programa de Computação Científica, Vice-Presidência de Educação, Informação e Comunicação, Fundação Oswaldo Cruz. Av. Brasil 4365, Residência Oficial, Manguinhos. 21040-900, Rio de Janeiro, Brasil.
+  <p>
+    <sup>1</sup>Programa de Computação Científica, Vice-Presidência de Educação, Informação e Comunicação, Fundação Oswaldo Cruz.<br>
+    Av. Brasil 4365, Residência Oficial, Manguinhos. 21040-900, Rio de Janeiro, Brasil.
+  </p>
 
-2 Programa de Pós-graduação em Biologia Computacional e Sistemas, Instituto Oswaldo Cruz, Fundação Oswaldo Cruz. Av. Brasil 4365, Manguinhos. 21040-900, Rio de Janeiro, Brasil.
+  <p>
+    <sup>2</sup>Programa de Pós-graduação em Biologia Computacional e Sistemas, Instituto Oswaldo Cruz, Fundação Oswaldo Cruz.<br>
+    Av. Brasil 4365, Manguinhos. 21040-900, Rio de Janeiro, Brasil.
+  </p>
 
-§ Present address: Universidade Estadual de Campinas, Faculdade de Tecnologia, 13484-332, Limeira, São Paulo – Brasil.
+  <p>
+    <sup>§</sup>Present address: Universidade Estadual de Campinas, Faculdade de Tecnologia, 13484-332, Limeira, São Paulo – Brasil.
+  </p>
 
-
-*To whom correspondence should be addressed: pbatista@fiocruz.br
-![image](https://github.com/user-attachments/assets/c06e0279-f3f1-4ebe-8f92-3d6fd3e273a4)
-
+  <p>
+    <sup>*</sup>To whom correspondence should be addressed: <a href="mailto:pbatista@fiocruz.br">pbatista@fiocruz.br</a>
+  </p>
+</body>
+</html>
 <br> <br>
 
 <p align="left">
