@@ -4,7 +4,6 @@ This repository contains part of the Supplemmentary Material from the manuscript
 <!DOCTYPE html>
 <html lang="en">
 <body>
-
   <h3>Exploring the intrinsic structural plasticity and conformational dynamics of beta coronavirus spike glycoproteins</h3>
   
   <p>
@@ -15,23 +14,28 @@ This repository contains part of the Supplemmentary Material from the manuscript
       <a href="https://orcid.org/0000-0003-3292-8247" target="_blank">Paulo R. Batista</a><sup>1,2,*</sup>
     </strong>
   </p>
- <div style="font-size: 0.5em;">
-  <p>
-    <sup>1</sup>Programa de Computação Científica, Vice-Presidência de Educação, Informação e Comunicação, Fundação Oswaldo Cruz.<br>
-    Av. Brasil 4365, Residência Oficial, Manguinhos. 21040-900, Rio de Janeiro, Brasil.
-  </p>
 
-  <p>
-    <sup>2</sup>Programa de Pós-graduação em Biologia Computacional e Sistemas, Instituto Oswaldo Cruz, Fundação Oswaldo Cruz.<br>
-    Av. Brasil 4365, Manguinhos. 21040-900, Rio de Janeiro, Brasil.
-  </p>
+  <div style="font-size: 0.9em;">
+    <p>
+      <sup>1</sup>Programa de Computação Científica, Vice-Presidência de Educação, Informação e Comunicação, Fundação Oswaldo Cruz.<br>
+      Av. Brasil 4365, Residência Oficial, Manguinhos. 21040-900, Rio de Janeiro, Brasil.
+    </p>
 
-  <p>
-    <sup>§</sup>Present address: Universidade Estadual de Campinas, Faculdade de Tecnologia, 13484-332, Limeira, São Paulo – Brasil.
-  </p>
- </div>
-  <p>
-    <sup>*</sup>To whom correspondence should be addressed: <a href="mailto:pbatista@fiocruz.br">pbatista@fiocruz.br</a*
+    <p>
+      <sup>2</sup>Programa de Pós-graduação em Biologia Computacional e Sistemas, Instituto Oswaldo Cruz, Fundação Oswaldo Cruz.<br>
+      Av. Brasil 4365, Manguinhos. 21040-900, Rio de Janeiro, Brasil.
+    </p>
+
+    <p>
+      <sup>§</sup>Present address: Universidade Estadual de Campinas, Faculdade de Tecnologia, 13484-332, Limeira, São Paulo – Brasil.
+    </p>
+
+    <p>
+      <sup>*</sup>To whom correspondence should be addressed: <a href="mailto:pbatista@fiocruz.br">pbatista@fiocruz.br</a>
+    </p>
+  </div>
+</body>
+</html>
 
 <br> <br>
 
