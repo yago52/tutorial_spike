@@ -1,7 +1,8 @@
 # tutorial_spike
+## Description
 This repository includes:
-- the configuration files to run the MDeNM simulations included in the manuscript (mdenm_spike.tar.gz);
-- a python notebook (tutorial_spike.ipynb) to build, analyse, plot and generate the necessary files to run perform the dynamical network analysis from the ensemble normal modes.
+- the configuration files to run the MDeNM simulations included in the manuscript [mdenm_spike.tar.gz](mdenm_spike.tar.gz);
+- a python notebook [tutorial_spike.ipynb](tutorial_spike.ipynb) to build, analyse, plot and generate the necessary files to run perform the dynamical network analysis from the ensemble normal modes.
 - a R notebook to run and perform the dynamical network analysis from the ensemble normal modes.
 
 This repository is part of the Supplemmentary Material from the manuscript:
@@ -45,9 +46,11 @@ This repository is part of the Supplemmentary Material from the manuscript:
 
 <br> <br>
 
-[The content of the repository](contents.md)
+### Repository's contents
+The [Contents](contents.md) of the repository.
 
-Please verify the [Requirements](requirements.md) to run the scripts 
+### Requirements to run the scripts
+Please verify the [Requirements](requirements.md) to run the scripts.
 
 
 
