@@ -14,10 +14,10 @@ This repository contains part of the Supplemmentary Material from the manuscript
   
   <p>
     <strong>
-      <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">Yago F. Silva</a><sup>1,2</sup>, 
-      <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">Harold H. Fokoue</a><sup>1,§</sup>, 
+      <a href="https://orcid.org/0000-0002-0221-2992" target="_blank">Yago F. Silva</a><sup>1,2</sup>, 
+      <a href="https://orcid.org/0000-0002-3629-5345" target="_blank">Harold H. Fokoue</a><sup>1,§</sup>, 
       and 
-      <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">Paulo R. Batista</a><sup>1,2,*</sup>
+      <a href="https://orcid.org/0000-0003-3292-8247" target="_blank">Paulo R. Batista</a><sup>1,2,*</sup>
     </strong>
   </p>
 
@@ -36,10 +36,8 @@ This repository contains part of the Supplemmentary Material from the manuscript
   </p>
 
   <p>
-    <sup>*</sup>To whom correspondence should be addressed: <a href="mailto:pbatista@fiocruz.br">pbatista@fiocruz.br</a>
-  </p>
-</body>
-</html>
+    <sup>*</sup>To whom correspondence should be addressed: <a href="mailto:pbatista@fiocruz.br">pbatista@fiocruz.br</a*
+
 <br> <br>
 
 <p align="left">
