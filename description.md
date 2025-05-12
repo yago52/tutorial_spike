@@ -4,7 +4,7 @@ This repository contains part of the Supplemmentary Material from the manuscript
 <!DOCTYPE html>
 <html lang="en">
 <body>
-#  <h2>Supporting Information</h2>
+!  <h2>Supporting Information</h2>
 
   <h3>Exploring the intrinsic structural plasticity and conformational dynamics of beta coronavirus spike glycoproteins</h3>
   
