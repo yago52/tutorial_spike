@@ -5,7 +5,7 @@ This repository includes:
 - a python notebook [tutorial_spike.ipynb](tutorial_spike.ipynb) to build, analyse, plot and generate the necessary files to run perform the dynamical network analysis from the ensemble normal modes;
 - an R notebook to run and perform the dynamical network analysis from the ensemble normal modes [network.ipynb](network.ipynb).
 
-This repository is part of the Supplemmentary Material from the manuscript:
+This repository is part of the Supplementary Material from the manuscript:
 <!DOCTYPE html>
 <html lang="en">
 <body>
