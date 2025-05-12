@@ -1,10 +1,10 @@
 ### Notebooks
 
 #### tutorial_spike.ipynb - Python
-The tutorial used the 20 most representative structures pdbids as example.
+The tutorial used the 20 most representative (from the cluster analysis) PDB entries as a robust example.
 
 - `build_ensemble.py` – download pdb files, build ensemble
-- `files/ensemble_sarscov2.ens.npz` – complete ensemble used in the article
+- `files/ensemble_sarscov2.ens.npz` – The complete SARS-CoV-2 ensemble used in the article
 - `analysis.py` – core analysis done with the structures - the information in the folder cov3d is used here
 - `lists.py` – organized lists used for the plots 
  
