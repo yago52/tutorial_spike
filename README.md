@@ -8,39 +8,42 @@ This repository contains the required files to perform the analysis done for the
 </p>
 
 ### **structure of the files present in tutorial_spike.tar.gz
-├── tutorial_spike.ipynb         # notebook with analysis in Python
-├── network.ipynb             # notebook with analysis in R
-├── scripts/                # Folder with Python and R scripts
-│   ├── analysis.py
-│   ├── build_ensemble.py
-│   ├── domains_new.R
-│   ├── lists.py
-│   ├── network.r
-│   └── remodel.cna_igraph2.0.3.R
-├── files/                # Folder with Python and R scripts
-│   ├── 6vxx_A_rotated_2.pdb
-│   ├── ensemble_sarscov2.ens.npz
-│   ├── cov3d/ # data used from cov3d
-│       ├── data.csv
-│       ├── data_antibody.tsv
-│       ├── data_receptor.tsv
-│       └── data_antibody.tsv
-│   ├── create_env/ # file to create the env in conda
-│       └── tutorial_artigo.yml
+
+- `tutorial_spike.ipynb` – Notebook with analysis in Python  
+- `network.ipynb` – Notebook with analysis in R  
+- `scripts/` – Folder with Python and R scripts  
+  - `analysis.py`  
+  - `build_ensemble.py`  
+  - `domains_new.R`  
+  - `lists.py`  
+  - `network.r`  
+  - `remodel.cna_igraph2.0.3.R`  
+- `files/` – Folder containing structural files and datasets  
+  - `6vxx_A_rotated_2.pdb`  
+  - `ensemble_sarscov2.ens.npz`  
+  - `cov3d/` – Data used from CoV3D  
+    - `data.csv`  
+    - `data_antibody.tsv`  
+    - `data_receptor.tsv`  
+    - `data_antibody.tsv`  
+  - `create_env/` – Files to create the Conda environment  
+    - `tutorial_artigo.yml`  
+
 
 ### **structure of the files present in mdenm_spike.tar.gz
-├── mdenm_spike/                # Folder for the mdenm simulations using namd and R
-│   ├── step4_equilibration.coor
-│   ├── step4_equilibration.vel
-│   ├── step4_equilibration.xsc
-│   ├── cat_rep_ca.sh
-│   ├── catdcd_ca.sh
-│   ├── config.namd
-│   ├── index-ca
-│   ├── inputs2.R
-│   ├── mdexicter_namd_nm_2.R
-│   ├── run_mdenm_namd_2022_2.sh
-│   └── step3_input.psf
+- `mdenm_spike/` – Folder for the MDeNM simulations using NAMD and R  
+  - `step4_equilibration.coor`  
+  - `step4_equilibration.vel`  
+  - `step4_equilibration.xsc`  
+  - `cat_rep_ca.sh`  
+  - `catdcd_ca.sh`  
+  - `config.namd`  
+  - `index-ca`  
+  - `inputs2.R`  
+  - `mdexicter_namd_nm_2.R`  
+  - `run_mdenm_namd_2022_2.sh`  
+  - `step3_input.psf`  
+
 
 
 ### **Requirements** 
