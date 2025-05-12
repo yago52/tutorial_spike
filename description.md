@@ -40,7 +40,7 @@ This repository is part of the Supplemmentary Material from the manuscript:
 </body>
 </html>
 <p align="left">
-<img src="cluster_10.gif" width="40%">
+<img src="cluster.gif" width="40%">
 </p>
 
 <br> <br>
