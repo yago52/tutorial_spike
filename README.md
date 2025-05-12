@@ -18,9 +18,9 @@ This repository contains the required files to perform the analysis done for the
   - `lists.py`  
   - `network.r`  
   - `remodel.cna_igraph2.0.3.R`  
-- `files/` – Folder containing structural files and datasets  
-  - `6vxx_A_rotated_2.pdb`  
-  - `ensemble_sarscov2.ens.npz`  
+- `files/` – Folder containing datasets, enviromment, layout structure and complete ensemble used in the article  
+  - `6vxx_A_rotated_2.pdb` – Layout structure
+  - `ensemble_sarscov2.ens.npz` – Complete ensemble 
   - `cov3d/` – Data used from CoV3D  
     - `data.csv`  
     - `data_antibody.tsv`  
@@ -62,15 +62,21 @@ conda activate tutorial
 
 #### **Install R** 
 
-To set up the R environment required to run the scripts outside of the conda enviroment:
+To set up the R environment required to run the scripts:
+
+- Go outside of conda enviromment:
 
 ```bash
 conda deactivate
+```
+
+- R installation:
+```bash
 sudo apt-get install r-base-core
 ```
 
 #### **Install Bio3D and igraph package**
-To obtain the Bio3D package, start R and then type the following line:
+To obtain the Bio3D and igraph package, start R and then type the following line:
 
 ```{r, eval = FALSE}
 install.packages("bio3d", dependecies=TRUE)
@@ -86,7 +92,44 @@ To call NAMD from R/Bio3D, we advise users to edit the bash_profile file enterin
 export PATH="/path-to-namd-executable/:$PATH" 
 ```
 
+#### **Install jupyter notebook**
+To run the notebooks is necessary to have a reader of .ipynb, we recomend use of jupyter notebook for that:
 
-inputs - python and R
+- For Python - conda enviromment:
+
+```bash
+conda install jupyter
+```
+
+- For R - outside enviromment:
+
+```bash
+pip install jupyter
+```  
+
+
+### Notebooks
+
+#### tutorial_spike.ipynb - Python
+The tutorial used the 20 most representative structures pdbids as example.
+
+- `build_ensemble.py` – download pdb files, build ensemble
+- `files/ensemble_sarscov2.ens.npz` – complete ensemble used in the article
+- `analysis.py` – core analysis done with the structures - the information in the folder cov3d is used here
+- `lists.py` – organized lists used for the plots 
+ 
+Plots were generated to replicate the ones done in the article in a simple way. 
+The last part of the notebook was done to generate outputs used in the R notebook.
+
+#### network.ipynb - R
+The tutorial used the 20 most representative structures pdbids as example.
+
+- `pdbids.txt` – pdbids given as output file from the python script
+- `df_total.csv` – df_total table output file from the python script
+- `domains_new.R` – definition of the communities as domains of the protein spike of SARS-CoV-2 for the notebook
+- `remodel.cna_igraph2.0.3.R` – function from bio3d package obtained directed from the devs via email
+
+Plots were generated to replicate the ones done in the article in a simple way. 
+
 
 
