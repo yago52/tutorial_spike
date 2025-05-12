@@ -7,7 +7,7 @@ This repository contains the required files to perform the analysis done for the
   <img src="cluster.gif" width="40%">
 </p>
 
-### **structure of the files present in tutorial_spike.tar.gz**
+### **Structure of the files present in tutorial_spike.tar.gz**
 
 - `tutorial_spike.ipynb` – Notebook with analysis in Python  
 - `network.ipynb` – Notebook with analysis in R  
@@ -30,7 +30,7 @@ This repository contains the required files to perform the analysis done for the
     - `tutorial_artigo.yml`  
 
 
-### **structure of the files present in mdenm_spike.tar.gz**
+### **Structure of the files present in mdenm_spike.tar.gz**
 - `mdenm_spike/` – Folder for the MDeNM simulations using NAMD and R  
   - `step4_equilibration.coor`  
   - `step4_equilibration.vel`  
@@ -51,7 +51,7 @@ This repository contains the required files to perform the analysis done for the
 This repository assumes that you have a working installation of Conda for the analysis in Python (via [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/))
 
 
-#### **install Python** 
+#### **Install Python** 
 
 To set up the Python environment required to run the scripts:
 
@@ -60,7 +60,7 @@ conda env create -f tutorial_artigo.yml
 conda activate tutorial
 ```
 
-#### **install R** 
+#### **Install R** 
 
 To set up the R environment required to run the scripts outside of the conda enviroment:
 
@@ -69,7 +69,7 @@ conda deactivate
 sudo apt-get install r-base-core
 ```
 
-#### **install Bio3D and igraph package**
+#### **Install Bio3D and igraph package**
 To obtain the Bio3D package, start R and then type the following line:
 
 ```{r, eval = FALSE}
@@ -77,7 +77,7 @@ install.packages("bio3d", dependecies=TRUE)
 install.packages("igraph", dependecies=TRUE)
 ```
 
-#### **install NAMD** 
+#### **Install NAMD** 
 Download the [NAMD executable](http://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=NAMD). 
 
 To call NAMD from R/Bio3D, we advise users to edit the bash_profile file entering the place where the namd2 executable is found:
@@ -85,6 +85,7 @@ To call NAMD from R/Bio3D, we advise users to edit the bash_profile file enterin
 ```{r, eval = FALSE}
 export PATH="/path-to-namd-executable/:$PATH" 
 ```
+
 
 inputs - python and R
 
