@@ -7,7 +7,7 @@ This repository contains the required files to perform the analysis done for the
   <img src="cluster.gif" width="40%">
 </p>
 
-### **structure of the files present in tutorial_spike.tar.gz
+### **structure of the files present in tutorial_spike.tar.gz**
 
 - `tutorial_spike.ipynb` – Notebook with analysis in Python  
 - `network.ipynb` – Notebook with analysis in R  
@@ -30,7 +30,7 @@ This repository contains the required files to perform the analysis done for the
     - `tutorial_artigo.yml`  
 
 
-### **structure of the files present in mdenm_spike.tar.gz
+### **structure of the files present in mdenm_spike.tar.gz**
 - `mdenm_spike/` – Folder for the MDeNM simulations using NAMD and R  
   - `step4_equilibration.coor`  
   - `step4_equilibration.vel`  
