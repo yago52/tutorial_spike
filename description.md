@@ -47,7 +47,7 @@ This repository is part of the Supplemmentary Material from the manuscript:
 
 [The content of the repository](contents.md)
 
-Please verify the [requirements](requirements.md) to run the scripts 
+Please verify the [Requirements](requirements.md) to run the scripts 
 
 
 
