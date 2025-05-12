@@ -1,7 +1,4 @@
 # tutorial_spike
-<p align="left">
-<img src="cluster_10.gif" width="40%">
-</p>
 
 This repository contains part of the Supplemmentary Material from the manuscript:
 <!DOCTYPE html>
@@ -38,6 +35,9 @@ This repository contains part of the Supplemmentary Material from the manuscript
   </p>
 </body>
 </html>
+<p align="left">
+<img src="cluster_10.gif" width="40%">
+</p>
 
 <br> <br>
 
