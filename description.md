@@ -6,6 +6,11 @@ This repository contains part of the Supplemmentary Material from the manuscript
 <head>
   <meta charset="UTF-8">
   <title>Supporting Information</title>
+  <style>
+    .small-text {
+      font-size: 0.85em;
+    }
+  </style>
 </head>
 <body>
   <h2>Supporting Information</h2>
@@ -21,7 +26,7 @@ This repository contains part of the Supplemmentary Material from the manuscript
     </strong>
   </p>
 
-  <div style="font-size: 0.9em;">
+  <div class="small-text">
     <p>
       <sup>1</sup>Programa de Computação Científica, Vice-Presidência de Educação, Informação e Comunicação, Fundação Oswaldo Cruz.<br>
       Av. Brasil 4365, Residência Oficial, Manguinhos. 21040-900, Rio de Janeiro, Brasil.
@@ -42,7 +47,6 @@ This repository contains part of the Supplemmentary Material from the manuscript
   </div>
 </body>
 </html>
-
 <br> <br>
 
 <p align="left">
