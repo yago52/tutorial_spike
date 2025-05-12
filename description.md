@@ -3,10 +3,6 @@
 This repository contains part of the Supplemmentary Material from the manuscript:
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Supporting Information</title>
-</head>
 <body>
   <h2>Supporting Information</h2>
 
