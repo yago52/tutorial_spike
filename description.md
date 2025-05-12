@@ -15,7 +15,7 @@ This repository contains part of the Supplemmentary Material from the manuscript
       <a href="https://orcid.org/0000-0003-3292-8247" target="_blank">Paulo R. Batista</a><sup>1,2,*</sup>
     </strong>
   </p>
- <div style="font-size: 0.9em;">
+ <div style="font-size: 0.5em;">
   <p>
     <sup>1</sup>Programa de Computação Científica, Vice-Presidência de Educação, Informação e Comunicação, Fundação Oswaldo Cruz.<br>
     Av. Brasil 4365, Residência Oficial, Manguinhos. 21040-900, Rio de Janeiro, Brasil.
