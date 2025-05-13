@@ -52,5 +52,7 @@ The [Contents](contents.md) of the repository.
 ### Requirements to run the scripts
 Please verify the [Requirements](requirements.md) to run the scripts.
 
+### Notebooks to build the ensemble, analyse and make the plots
 
+Please verify the [Notebooks descriptions](notebook.md) to run the scripts.
 
