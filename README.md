@@ -48,12 +48,12 @@ This repository is part of the **Supplementary Material** from the manuscript:
 <br> <br>
 
 ### Repository's contents
-The [Contents](contents.md) of the repository.
+The [contents](contents.md) of the repository.
 
 ### Requirements to run the scripts
-Please verify the [Requirements](requirements.md) to run the scripts.
+Please verify the [requirements](requirements.md) to run the scripts.
 
 ### Notebooks to build the ensemble, analyse and make the plots
 
-Please ckeck the [Notebooks descriptions](notebook.md) to run the scripts.
+Please ckeck the [Notebooks' descriptions](notebook.md) to run the scripts.
 
