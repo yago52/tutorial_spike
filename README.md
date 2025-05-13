@@ -1,5 +1,4 @@
-## tutorial_spike
-## Repository description
+## Repository description (tutorial_spike)
 This repository includes:
 - the configuration files to run the [MDeNM](https://doi.org/10.1021/acs.jctc.2c00599) simulations included in the manuscript [mdenm_spike.tar.gz](mdenm_spike.tar.gz); The scripts are based in MDexciteR tutorial from the [MDexciteR Tool](https://github.com/mcosta27/MDexciteR);
 - a python notebook [tutorial_spike.ipynb](tutorial_spike.ipynb) to build, analyse, plot and generate the necessary files to run perform the dynamical network analysis from the ensemble normal modes;
@@ -44,8 +43,6 @@ This repository is part of the **Supplementary Material** from the manuscript:
 <p align="left">
 <img src="cluster.gif" width="40%">
 </p>
-
-<br> <br>
 
 ### Repository's contents
 The [contents](contents.md) of the repository.
