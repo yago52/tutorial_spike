@@ -21,7 +21,7 @@ Calculates the ensemble normal modes, performs the dynamical network analysis de
 - `./scripts/domains_new.R` – definition of the communities as domains of the protein spike of SARS-CoV-2 for the notebook
 - `./scripts/remodel.cna_igraph2.0.3.R` – function from bio3d package.
 
-In the folder `./scripts` one can find a simple .r script `./scripts/networks`, which can be runned directly from the terminal:
+In the folder `./scripts` one can find a simple .r script `./scripts/networks` or here [network.r](network.r), which can be runned directly from the terminal, as follows:
 
 `R  `
 
