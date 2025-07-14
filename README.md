@@ -10,7 +10,7 @@ This repository is part of the **Supplementary Material** from the manuscript:
 <html lang="en">
 <body>
 
-  <h3>[Exploring the intrinsic structural plasticity and conformational dynamics of beta coronavirus spike glycoproteins](https://doi.org/10.1021/acs.jcim.5c00990)</h3>
+  <h3>Exploring the intrinsic structural plasticity and conformational dynamics of beta coronavirus spike glycoproteins(https://doi.org/10.1021/acs.jcim.5c00990)</h3>
   
   <p>
     <strong>
